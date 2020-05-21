@@ -14,5 +14,8 @@
     "API"
   ],
   "author": "Hritik Arora",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
